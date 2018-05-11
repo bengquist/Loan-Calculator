@@ -1,0 +1,11 @@
+#loading, #results{
+  display: none;
+}
+
+a, a:hover{
+  color: #005500;
+}
+
+p{
+  color: #fff;
+}
